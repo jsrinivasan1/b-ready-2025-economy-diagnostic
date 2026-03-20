@@ -1,4 +1,3 @@
-# b-ready-2025-economy-diagnostic
 # B-READY 2025 Economy Diagnostic Generator
 
 An interactive tool that generates detailed narrative diagnostics for any of the **101 economies** in the World Bank B-READY 2025 dataset. Select an economy, click Generate, and get a publication-ready report covering all 10 topics, 3 pillars each, with subcategory-level findings, peer benchmarks, and data-driven reform priorities.
